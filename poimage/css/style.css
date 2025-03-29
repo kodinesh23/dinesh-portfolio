@@ -1,0 +1,10 @@
+*{
+    font-family:'Poppins',sans-serif;
+}
+.banner{
+    background-image:url(/portfolio/poimage/hanna-morris-92yWtTmQLjI-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0;
+
+}
